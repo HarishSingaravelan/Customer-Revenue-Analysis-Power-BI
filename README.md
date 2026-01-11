@@ -1,4 +1,5 @@
 # Customer Revenue Analysis – Power BI
+![Customer Revenue Dashboard](Revenue_Dashboard.png)
 
 ## Overview
 This project analyzes customer revenue data to understand revenue distribution, customer contribution, and overall business performance. The goal was to build an end-to-end analytics workflow, from database extraction to an interactive Power BI dashboard—that enables stakeholders to quickly explore revenue trends and customer behavior.
