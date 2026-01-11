@@ -57,13 +57,6 @@ The dashboard tracks performance through several high-level KPIs and granular me
 
 ---
 
-## Files in This Repository
-- **Customer_Revenue_Dashboard.pbix** – The core Power BI dashboard file.  
-- **/screenshots** – Visual previews of the dashboard.  
-- **README.md** – Project documentation.
-
----
-
 ## How to Use
 1. **Prerequisites:** Install Power BI Desktop.  
 2. **Download:** Clone this repository or download the `.pbix` file.  
